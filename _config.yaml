@@ -1,13 +1,13 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: Genetics and Bioinformatics Department
+subtitle: at Dasman Diabetes Institute
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: gb.dasmaninstitute@gmail.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: your-lab
@@ -70,3 +70,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+url: https://gb-ddi.github.io
+baseurl: /gb-website
