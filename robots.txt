@@ -1,1 +1,1 @@
-Sitemap: /gb-website/sitemap.xml
+Sitemap: https://gb-ddi.github.io/gb-website/sitemap.xml
