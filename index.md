@@ -1,9 +1,9 @@
 ---
 ---
 
-# GB-DDI's Website
+<!-- # GB-DDI's Website -->
 
-An engaging 1-3 sentence description of your lab.
+We use several genome-wide methodologies, including genome-wide association studies (GWAS), whole genome/exome sequencing, whole transcriptome profiling and high-resolution genotyping. We focus on identifying the clinical significance of the identified gene/variants to identify the best medical approach to treat diabetes. Our research includes investigating epigenomic alterations, gene-gene interactions, microRNA profiling and development of panels consisting of population-specific markers for predicting the risk outcomes of complex disorders.
 
 {% include section.html %}
 
